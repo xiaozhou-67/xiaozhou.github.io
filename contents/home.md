@@ -1,4 +1,4 @@
-[![xiaozhou-67](https://img.shields.io/badge/xiaozhou-67-github-blue?logo=github)](https://github.com/xiaozhou-67)
+[![xiaozhou-67](https://img.shields.io/badge/xiaozhou--67-github-blue?logo=github)](https://github.com/xiaozhou-67)
 
 Data Analysis Engineer | Outstanding Graduate of Nanjing Forestry University | Researcher in Mathematical Modeling & Deep Learning
 
