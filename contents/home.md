@@ -1,38 +1,13 @@
----
-layout: home
-title: 关于我
-permalink: /
----
+[![xiaozhou-67](https://img.shields.io/badge/xiaozhou--67-github-blue?logo=github)](https://github.com/xiaozhou-67)
 
-### 👋 个人简介
-
-**周昌庆**
-**求职意向：数据分析工程师**
-
-中共党员，南京林业大学2024届优秀毕业生。拥有扎实的数学与计算机科学双重背景，擅长使用 Python、R 和 MATLAB 进行数据处理与建模。在省级创新创业项目中担任第一主持人，具备从数据清洗、模型构建到可视化展示的完整项目经验。
-
----
+数据分析工程师 | 南京林业大学优秀毕业生 | 数学建模与深度学习研究者
 
 #### 📬 联系方式
-- **电话**: 180-2015-8224
-- **邮箱**: [zcq@njfu.edu.cn](mailto:zcq@njfu.edu.cn)
-- **籍贯**: 甘肃-张掖
-
----
+Email: [zcq@njfu.edu.cn](mailto:zcq@njfu.edu.cn) | Tel: 180-2015-8224
 
 #### 🎓 教育背景
+B.E., Information and Computational Science (理学学士), Nanjing Forestry University, 2020—2024.\
+B.E., Computer Science and Technology (工学学士 - 第二学位), Nanjing Forestry University, 2020—2024.
 
-**南京林业大学** (2020.09 — 2024.06)
-- **主修**: 信息与计算科学 (理学学士)
-  - *核心课程*: 高等代数、数学分析、运筹学、概率与数理统计、数值分析。
-- **第二学位**: 计算机科学与技术 (工学学士)
-  - *核心课程*: C/C++程序设计、数据库原理、数据结构、操作系统、计算机网络。
-
----
-
-#### 🛠 专业技能
-
-- **编程语言**: 熟练掌握 **Python**, **MATLAB**, C/C++。
-- **数据分析**: 擅长使用 **R** 语言进行统计建模与数据可视化。
-- **办公与工具**: 熟练使用 Office 套件，持有“数学建模”专业人才认证。
-- **证书**: CET-4, 全国普通话二级乙等。
+#### 🛠 研究/技能方向
+Data Analysis & Mining; Mathematical Modeling; Deep Learning (CNN); Statistical Computing (R/MATLAB); SEER Database Research
