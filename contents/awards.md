@@ -1,12 +1,13 @@
+#### 🏆 综合荣誉
+- **2024**: 南京林业大学本科**优秀毕业生**
+- **2020-2023**: 连续三年获得 **国家励志奖学金**
+- **2022-2023**: 校“三好学生”、校“优秀大学生共产党员”
+- **2021-2022**: 校“优秀学生干部”、校“优秀团干部”
+- **2020-2021**: 校“优秀学生”、校“勤工助学优秀学生”
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+#### 🥇 学科竞赛 (数学建模)
+- **2023**: 美国大学生数学建模竞赛 **H奖** (Honorable Mention)
+- **2022**: 中国高校大数据挑战赛 **二等奖**
+- **2022**: MathorCup 高校数学建模挑战赛 **二等奖**
+- **2021**: “五一”数学建模竞赛 **二等奖**
+- **2021**: MathorCup 高校数学建模挑战赛大数据竞赛 **三等奖**
